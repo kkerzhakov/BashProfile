@@ -4,6 +4,7 @@ export CLICOLOR=1
 
 # Custom aliases
 alias ls='ls -GFh' # to display with colors
+alias fucking=sudo # when pissed off
 
 # Setting locale character encoding
 export LC_ALL=en_US.UTF-8
